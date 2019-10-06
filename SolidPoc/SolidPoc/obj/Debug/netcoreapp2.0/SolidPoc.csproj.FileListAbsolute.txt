@@ -1,0 +1,10 @@
+C:\Users\abanoub.nageh\Desktop\SolidPoc\SolidPoc\bin\Debug\netcoreapp2.0\SolidPoc.deps.json
+C:\Users\abanoub.nageh\Desktop\SolidPoc\SolidPoc\bin\Debug\netcoreapp2.0\SolidPoc.runtimeconfig.json
+C:\Users\abanoub.nageh\Desktop\SolidPoc\SolidPoc\bin\Debug\netcoreapp2.0\SolidPoc.runtimeconfig.dev.json
+C:\Users\abanoub.nageh\Desktop\SolidPoc\SolidPoc\bin\Debug\netcoreapp2.0\SolidPoc.dll
+C:\Users\abanoub.nageh\Desktop\SolidPoc\SolidPoc\obj\Debug\netcoreapp2.0\SolidPoc.csproj.CoreCompileInputs.cache
+C:\Users\abanoub.nageh\Desktop\SolidPoc\SolidPoc\obj\Debug\netcoreapp2.0\SolidPoc.AssemblyInfoInputs.cache
+C:\Users\abanoub.nageh\Desktop\SolidPoc\SolidPoc\obj\Debug\netcoreapp2.0\SolidPoc.AssemblyInfo.cs
+C:\Users\abanoub.nageh\Desktop\SolidPoc\SolidPoc\bin\Debug\netcoreapp2.0\SolidPoc.pdb
+C:\Users\abanoub.nageh\Desktop\SolidPoc\SolidPoc\obj\Debug\netcoreapp2.0\SolidPoc.dll
+C:\Users\abanoub.nageh\Desktop\SolidPoc\SolidPoc\obj\Debug\netcoreapp2.0\SolidPoc.pdb

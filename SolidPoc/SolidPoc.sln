@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolidPoc", "SolidPoc\SolidPoc.csproj", "{FD5770A6-9F59-4051-A7EA-A49634AFFF8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5770A6-9F59-4051-A7EA-A49634AFFF8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5770A6-9F59-4051-A7EA-A49634AFFF8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5770A6-9F59-4051-A7EA-A49634AFFF8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5770A6-9F59-4051-A7EA-A49634AFFF8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA1A7A29-3A28-4148-851A-CE0A91E81545}
+	EndGlobalSection
+EndGlobal
